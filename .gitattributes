@@ -1,0 +1,4 @@
+# Vendored master data and generated outputs are byte-exact; never
+# apply line-ending conversion to them.
+source/*.xml -text
+*.json -text
